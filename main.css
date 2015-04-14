@@ -1,0 +1,43 @@
+body {
+	background-color: rgb(240,240,240);
+	color: rgb(104,0,0);
+	font-family: 
+}
+
+.mybuttons {
+	width: 350px;
+	height: 60px;
+	border-radius: 5px;
+	background-color: rgb(184,0,0);
+	color: #fff;
+	font-size: 18px;
+}
+
+header {
+	text-align: center;
+	height: 50px;
+	color: #000;
+}
+
+#demo {
+	width: 500px;
+}
+#search {
+	float: right;
+	width: 350px;
+	height: 30px;
+}
+
+#Searching {
+	width: 450px;
+	float: right;
+}
+
+#searchButton {
+	width: 100px;
+	height: 30px;
+}
+
+#search {
+	padding-left: 10px;
+}
